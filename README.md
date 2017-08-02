@@ -1,2 +1,1 @@
-# ShowManagmentMaterailDesign
-# ShopManagmentMaterailDesign
+# Shop Managmen with MaterailDesign
